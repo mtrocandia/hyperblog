@@ -2,4 +2,6 @@ Hola mi nombres es Marco Antonio Candia Ortega.
 
 Marco es un ruco de 41 años y nació en México para el mundo.
 
-Hoy no diŕe nada.
+Hoy sí diré algo:
+* Una cosa.
+* Otra cosa.
